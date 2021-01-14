@@ -11,7 +11,7 @@ Regras:
  </ul>
 
 
-- Para realizar a execução do projeto é necessário ter o docker instalado na máquina
+<h3> Para realizar a execução do projeto é necessário ter o docker instalado na máquina <h3>
 - Após efetuar o clone do projeto é necessario executar os comandas para realizar o build do mesmo
     - docker-compose up --build (esse processo irá baixar as dependencias que o projeto necessita e inicializará o servidor)
     - Servidor inicializar no endereço: http://localhost:8080/api/v1/login
